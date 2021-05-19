@@ -1,0 +1,17 @@
+Program Charactere
+var 
+nb_char,nb_word,nb_vowel,i:interger;
+str:string;
+Begin
+while(str==".")do
+if (str ==".")then
+bn_char := str[i];
+end if
+if (str[i] in (a,e,i,o,u)then
+nb_vowel:= nb_vowel + 1;
+end if 
+if (str==" ")then
+nb_word:=nb_word +1;
+end if 
+end while
+END
